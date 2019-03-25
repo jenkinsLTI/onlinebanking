@@ -2,7 +2,7 @@ package g;
 class BalanceDetails{
 
 
-int a,b;
+int a,b,c;
 
 public static void done(){
 
